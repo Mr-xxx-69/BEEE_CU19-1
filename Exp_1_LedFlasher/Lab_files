@@ -1,0 +1,31 @@
+
+Concept Used:
+For the task of making a LED FLASHER we have used various concepts regarding LEDS , Adrino Chips and Programming.
+We used the concept regarding the N and p Junstion of a LED. The P terminal of an LED must be connected to the higher potential 
+and the N terminal of the LED must be connected to the lower potential i.e grounding in this case.
+We used the concept of how a breadboard is designed and the slots individually are internally connected.
+We used the concept of how the wires are connected in a breadboard and concept regarding different Analog and Digital ports.
+We used the concept of using while loops in the program while setting up the adrino.
+
+Learning and Observations:
+We learnt a lot of new things because of this experiment.
+We learnt how to use different ports of Adrino chip like the digital and analog port.
+We learnt that the digital port can be used for both input and output but the analog port can only be used for output.
+We learnt how to write a code for working of a LED Flasher.
+
+
+Problem & Troubleshooting:
+There were various problems regarding different topics that we faced while carring this experiment out.
+Firstly,We faced problem while connecting the LED's to the breadboard because we somehow ended up connecting the p terminal to 
+grouding and vice-versa.
+We also faced problem while compiling and uploading our code because we selected the wrong port .
+
+Precautions:
+Ther are many precaution to be taken for the LED flasher to correctlty work-out.
+The first precaution is that one must always connect the LED's correctly keeping the N and P terminals in mind.
+The LED should be connected to the breadboard in accordance to the internal connection of the breadboard slots.
+While compilimg the port selected should be correct beacause only then is the LED flasher going to work.
+
+Learning Outcomes:
+We learnt a lot of new things because of this experiment.
+We learnt how to use different ports of Adrino chip like the digital and analog port.
